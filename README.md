@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Software Engineering student, currently in Year 2, Semester 1
+- 🎓 Software Engineering student
 - 🌐 Comfortable across the full stack — React, Node.js/Express, MongoDB
 - 🤖 Hands-on with embedded systems — ESP32, motor control, sensors, Bluetooth
 - 📱 Exploring Android/React Native and Flutter development
@@ -32,12 +32,9 @@
 
 | Project | Description |
 |---|---|
-| 🛒 **CampusEats Dashboard** | React + Vite dashboard with custom hooks (`useDebounce`, `useFetch`), routing, and form validation |
-| 🍽️ **CampusEats Menu API** | C# ASP.NET Core REST API lab |
 | 🤖 **Obstacle-Avoiding Robot Car** | ESP32-based robot with Bluetooth control, servo-mounted ultrasonic sensor, and OLED display |
 | 🖥️ **PC Remote Control App** | Android app for keyboard/touchpad control over WiFi using TCP sockets + Python `pynput` |
 | 📷 **Live Camera Streaming App** | React Native (Expo) app streaming phone camera to PC over WiFi (MJPEG) |
-| 🗃️ **MERN Item Manager** | Full MERN stack app with MongoDB Atlas, deployed on Render/Vercel |
 
 *(Pin these on your profile — GitHub → your repos → click the pin icon on your top 6)*
 
