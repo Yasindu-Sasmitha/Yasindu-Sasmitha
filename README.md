@@ -36,7 +36,6 @@
 | 🖥️ **PC Remote Control App** | Android app for keyboard/touchpad control over WiFi using TCP sockets + Python `pynput` |
 | 📷 **Live Camera Streaming App** | React Native (Expo) app streaming phone camera to PC over WiFi (MJPEG) |
 
-*(Pin these on your profile — GitHub → your repos → click the pin icon on your top 6)*
 
 ### 📊 GitHub Stats
 
