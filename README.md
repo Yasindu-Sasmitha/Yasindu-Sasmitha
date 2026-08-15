@@ -24,7 +24,7 @@
 
 ### 🔭 Currently Working On
 
-- Leading a 4-member team project: React web app + Flutter mobile app + multi-agent AI workflow
+- Leading a project: React web app + Flutter mobile app + multi-agent AI workflow
 - Software architecture coursework — quality attributes & architectural tactics
 - Exploring agentic AI tooling and CLI-based research assistants
 
