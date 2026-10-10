@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yasindu Sasmitha</h1>
+<h1 align="center">Hi, I'm Yasindu Sasmitha</h1>
 <h3 align="center">Software Engineering Undergraduate | Building things with code, robots, and a bit of chaos 🤖💻</h3>
 
 <p align="center">
